@@ -1,0 +1,7 @@
+# Normalize line endings
+* text=auto
+
+# Treat Arduino and C++ files as text
+*.ino text
+*.cpp text
+*.h   text
